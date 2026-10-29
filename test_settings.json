@@ -1,0 +1,13 @@
+{
+  "result_folder": "run/",
+  "model_epoch": 100,
+  "with_diffusion": false,
+  "strength_factor": 1.5,
+  "dataset_path": "E:\\projects\\datasets_10000\\datasets_10000/",
+  "H": 128,
+  "W": 128,
+  "message_length": 48,
+  "noise_layers": [
+    "JpegTest(50)"
+  ]
+}
